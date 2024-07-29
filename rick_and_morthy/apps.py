@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class RickAndMorthyConfig(AppConfig):
-    default_auto_field = 'django.db.models.BigAutoField'
-    name = 'rick_and_morthy'
+    default_auto_field = "django.db.models.BigAutoField"
+    name = "rick_and_morthy"
