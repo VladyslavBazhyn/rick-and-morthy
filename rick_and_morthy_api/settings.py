@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rick_and_morthy",
+    "rest_framework",
 
 ]
 
